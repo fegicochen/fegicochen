@@ -32,7 +32,12 @@
 - Land a full-stack developer internship.
 - Expand knowledge in cloud computing and DevOps.
 
----
-
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# 🐍 Watch the Snake Eat My Contributions!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fegicochen/fegicochen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fegicochen/fegicochen/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/fegicochen/fegicochen/output/github-snake.svg" />
+</picture>
