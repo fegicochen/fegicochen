@@ -3,7 +3,7 @@
 🌐 I'm currently diving into full-stack development with a focus on **React**, **Node.js**, **Express**, and **MongoDB**.<br>
 🎨 My goal is to create impactful and user-friendly applications while continuously improving my technical skills.<br>
 🤝 I'm open to collaboration and feedback on my projects to learn and grow with the community.<br>
-🎶 Fun fact: When I'm not coding, I enjoy playing fingerstyle guitar 🎸.
+🎸 Fun fact: When I'm not coding, I enjoy playing fingerstyle guitar.
 
 ---
 
