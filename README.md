@@ -5,7 +5,6 @@
 🤝 I'm open to collaboration and feedback on my projects to learn and grow with the community.<br>
 🎶 Fun fact: When I'm not coding, I enjoy playing fingerstyle guitar.
 
----
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -27,7 +26,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
----
 
 # 🎯 Future Goals
 - Contribute to open-source projects.
