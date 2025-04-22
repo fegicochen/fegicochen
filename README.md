@@ -29,7 +29,6 @@
 
 # 🎯 Future Goals
 - Contribute to open-source projects.
-- Land a full-stack developer internship.
 - Expand knowledge in cloud computing and DevOps.
 
 # ✍️ Random Dev Quote
