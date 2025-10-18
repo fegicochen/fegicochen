@@ -1,8 +1,12 @@
 # 🚀 About Me
 🚗 I’m currently working as a **Software Engineer Intern** at **Rivian** in Vancouver, building scalable **full-stack web applications**.<br>
+
 🎬 Previously, I worked at **Disney (ILM)** as a **Software Engineer Intern**, where I developed **full-stack web applications**.<br>
+
 ⚙️ I’m passionate about **full-stack development** that delivers seamless user experiences.<br>
+
 🎯 My goal is to build **impactful, user-focused applications** while continuously improving my technical and problem-solving skills.<br>
+
 🎸 Fun fact: When I'm not coding, I enjoy playing **fingerstyle guitar**.
 
 ## 💻 Tech Stack
