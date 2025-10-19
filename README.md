@@ -3,9 +3,7 @@
 
 🎬 Previously, I worked at **Disney (ILM)** as a **Software Engineer Intern**, where I developed **full-stack web applications**.<br>
 
-⚙️ I’m passionate about **full-stack development** that delivers seamless user experiences.<br>
-
-🎯 My goal is to build **impactful, user-focused applications** while continuously improving my technical and problem-solving skills.<br>
+🎯 I’m passionate about creating **seamless, user-focused experiences** and continuously improving my **technical and problem-solving skills**.<br>
 
 🎸 Fun fact: When I'm not coding, I enjoy playing **fingerstyle guitar**.
 
@@ -37,7 +35,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture>
