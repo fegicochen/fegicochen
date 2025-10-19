@@ -3,7 +3,7 @@
 
 🎬 Previously, I worked at **Disney (ILM)** as a **Software Engineer Intern**, where I developed **full-stack web applications**.<br>
 
-🎯 I’m passionate about creating **seamless, user-focused experiences** and continuously improving my **technical and problem-solving skills**.<br>
+🎯 I’m passionate about creating **seamless, user-focused experiences** and continuously improving my **problem-solving skills**.<br>
 
 🎸 Fun fact: When I'm not coding, I enjoy playing **fingerstyle guitar**.
 
